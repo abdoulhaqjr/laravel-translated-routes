@@ -1,0 +1,7 @@
+- [Accueil](/)
+- [Installation](#installation)
+- [Configuration](#configuration)
+- [Exemple d'utilisation](#exemple)
+- [Compatibilité](#compatibilite)
+- [Liens utiles](#liens-utiles)
+- [Licence](#licence)
