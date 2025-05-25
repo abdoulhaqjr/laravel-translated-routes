@@ -1,5 +1,5 @@
 {
-  "name": "tongithub/laravel-translated-routes",
+  "name": "abdoulhaqjr/laravel-translated-routes",
   "description": "Traduction automatique des routes Laravel selon la langue de l'utilisateur, sans préfixe /en ou /fr.",
   "type": "library",
   "license": "MIT",
